@@ -73,16 +73,16 @@ Technologies
 
 Repository Layout
   docs/
-   ├── sdd.tex
-   ├── srs.tex
-   ├── readme.tex
-   ├── design_spec.tex
-   ├── snapshot_objectives.tex
-   ├── testrail_snapshot2.pdf
-   ├── testrail_snapshot3.pdf
-   ├── testrail_snapshot4.pdf
-   ├── workflow_diagram.tex
-   └── images/workflow.png
+├── sdd.tex
+├── srs.tex
+├── readme.tex
+├── design_spec.tex
+├── snapshot_objectives.tex
+├── testrail_snapshot2.pdf
+├── testrail_snapshot3.pdf
+├── testrail_snapshot4.pdf
+├── workflow_diagram.tex
+└── images/workflow.png
 
 docker-compose.yml
 final-project.txt
