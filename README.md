@@ -72,7 +72,7 @@ Technologies
   Documentation: LaTeX
 
 Repository Layout
-  docs/
+docs/
 ├── sdd.tex
 ├── srs.tex
 ├── readme.tex
